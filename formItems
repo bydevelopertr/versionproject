@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1,
+        "title": "Kişisel",
+        "vehicleEquipmentItems": [
+            {
+                "groupId": 1,
+                "id": "A1",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Baret"
+            },
+            {
+                "groupId": 1,
+                "id": "A2",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "İş Ayakkabısı"
+            },
+            {
+                "groupId": 1,
+                "id": "A3",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Paraşüt Tipi Emniyet Kemeri"
+            },
+            {
+                "groupId": 1,
+                "id": "A4",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "İkili Lanyard"
+            },
+            {
+                "groupId": 1,
+                "id": "A5",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Tek Uçlu AG Dedektör"
+            },
+            {
+                "groupId": 1,
+                "id": "A6",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Ark Başlığı"
+            },
+            {
+                "groupId": 1,
+                "id": "A7",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "AG İzoark Eldiven"
+            },
+            {
+                "groupId": 1,
+                "id": "A8",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Perlon"
+            },
+            {
+                "groupId": 1,
+                "id": "A9",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Grillon"
+            },
+            {
+                "groupId": 1,
+                "id": "A24",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Karabina"
+            },
+            {
+                "groupId": 1,
+                "id": "A25",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Vinil Kilit Takımı"
+            },
+            {
+                "groupId": 1,
+                "id": "A26",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "7 Altın Kural Kartı"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Araçsal",
+        "vehicleEquipmentItems": [
+            {
+                "groupId": 2,
+                "id": "A10",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "YG Dedektörü"
+            },
+            {
+                "groupId": 2,
+                "id": "A11",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "YG İzole Eldiven"
+            },
+            {
+                "groupId": 2,
+                "id": "A12",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Manevra İstankası"
+            },
+            {
+                "groupId": 2,
+                "id": "A13",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Ark Elbisesi"
+            },
+            {
+                "groupId": 2,
+                "id": "A14",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Ark Eldiveni"
+            },
+            {
+                "groupId": 2,
+                "id": "A15",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "YG Bara Toprakalama"
+            },
+            {
+                "groupId": 2,
+                "id": "A16",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "YG Hat Topraklama (2 Adet)"
+            },
+            {
+                "groupId": 2,
+                "id": "A17",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "AG Hat Topraklama (2 Adet)"
+            },
+            {
+                "groupId": 2,
+                "id": "A18",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "AG Çift Uçlu Faz Kalemi"
+            },
+            {
+                "groupId": 2,
+                "id": "A27",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "AG NH Kofra Bıçaklı Sigorta Top."
+            },
+            {
+                "groupId": 2,
+                "id": "A28",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "YG Eş Potansiyel Topraklama Teç."
+            },
+            {
+                "groupId": 2,
+                "id": "A29",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Şarj Alma Istankası"
+            },
+            {
+                "groupId": 2,
+                "id": "A30",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Yangın Tüpü Manometresi ve Pimi Sağlam mı?"
+            },
+            {
+                "groupId": 2,
+                "id": "A31",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Köpeksavar"
+            },
+            {
+                "groupId": 2,
+                "id": "A32",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "İlkyardım Çantası"
+            },
+            {
+                "groupId": 2,
+                "id": "A33",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Kurtarma Ekipmanı"
+            },
+            {
+                "groupId": 2,
+                "id": "A34",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Elçik"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Trafik",
+        "vehicleEquipmentItems": [
+            {
+                "groupId": 3,
+                "id": "A19",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Reflektif Yelek"
+            },
+            {
+                "groupId": 3,
+                "id": "A20",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Duba"
+            },
+            {
+                "groupId": 3,
+                "id": "A21",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Flaşör"
+            },
+            {
+                "groupId": 3,
+                "id": "A22",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Emniyet Şeridi"
+            },
+            {
+                "groupId": 3,
+                "id": "A23",
+                "negativeAnswerText": "Yok / Uygun Değil",
+                "positiveAnswerText": "Var / Uygun",
+                "title": "Uyarı Levhası"
+            }
+        ]
+    }
+]
