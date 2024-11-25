@@ -1,0 +1,42 @@
+{
+    "E_GELECEK_KESINTI": {
+        "item": [
+           ""
+        ]
+    },
+    "E_MEVCUT_KESINTI": {
+        "item": [
+            {
+                "ANLAGE": "",
+                "TALEPNO": 469502,
+                "REGION": "06",
+                "BEZEI": "ANKARA",
+                "COUNTY_CODE": "00001747",
+                "COUNTY": "SİNCAN",
+                "CITY_CODE": "000000002448",
+                "CITY_NAME": "MERKEZ",
+                "TOWNSHIP_CODE": "00000110",
+                "TOWNSHIP": "MERKEZ",
+                "CITYP_CODE": "00098558",
+                "CITY_PART": "KESİKTAŞ",
+                "STREETCODE": "000000816119",
+                "STREET": "KESİKTAŞ",
+                "PLDAT": "2024-11-25",
+                "PLZEIT": "10:30:00",
+                "PLEND": "0000-00-00",
+                "PLENZ": "00:00:00",
+                "NEDEN": "ŞEBEKE ARIZASI",
+                "ZPOLIGON": "",
+                "OURES": "",
+                "ESTE_DT": "2024-11-25",
+                "ESTE_TM": "11:20:00",
+                "TYPE": "E"
+            }
+        ]
+    },
+    "E_RETURN": {
+        "item": [
+            ""
+        ]
+    }
+}
